@@ -15,5 +15,11 @@ public class TPC26 {
         r.chUp();
         r.chDown();
         r.internet();
+
+        TV t = new TV();
+        t.chUp();
+        t.chDown();
+        t.internet();
+        t.game();
     }
 }

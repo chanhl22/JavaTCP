@@ -29,4 +29,8 @@ public class TV implements RemoCon {
     public void internet() {
         System.out.println("인터넷이 된다.");
     }
+
+    public void game() {
+        System.out.println("게임이 된다.");
+    }
 }
