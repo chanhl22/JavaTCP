@@ -10,6 +10,7 @@ public class TPC26 {
         r.chUp();
         r.chDown();
         r.internet();
+        //r.game() //불가능
 
         r = new Radio();
         r.chUp();
